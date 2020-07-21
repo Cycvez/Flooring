@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+32,carlos,TX,4.45,Carpet,150,2.25,2.10,337.50,315.00,652.54,1305.04,

@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,testONE,TS,10.00,testProduct,10.00,10.00,10.00,10.00,10.00,10.00,10.00,
+2,testTWO,ZZ,20.00,secondOrder,20.00,20.00,20.00,20.00,20.00,20.00,20.00,

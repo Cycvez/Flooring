@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,Carlos Chavez,TX,4.45,Wood,250,5.15,4.75,1287.50,1187.50,2475.04,4950.04,
+6,Diego,TX,4.45,Tile,555,3.50,4.15,1942.50,2303.25,4245.79,8491.54,
+7,johnny,KY,6.00,Carpet,674,2.25,2.10,1516.50,1415.40,2932.15,5864.05,

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+14,Master Chief ,TX,4.45,Carpet,500,2.25,2.10,1125.00,1050.00,2175.04,4350.04,

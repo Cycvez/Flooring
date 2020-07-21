@@ -1,0 +1,7 @@
+com\mycompany\flooring\dao\OrdersMockDao.class
+com\mycompany\flooring\service\FlooringServiceTest.class
+com\mycompany\flooring\dao\ProductDaoImplTest.class
+com\mycompany\flooring\dao\TaxesDaoImplTest.class
+com\mycompany\flooring\dao\OrdersDaoImplTest.class
+com\mycompany\flooring\dao\TaxesDaoMock.class
+com\mycompany\flooring\dao\ProductDaoMock.class

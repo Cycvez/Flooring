@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+9,Jeremy fin,TX,4.45,Tile,450,3.50,4.15,1575.00,1867.50,3442.54,6885.04,
