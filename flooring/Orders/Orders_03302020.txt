@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+43,carlos,TX,4.45,Wood,560,5.15,4.75,2884.00,2660.00,5544.04,11088.04,
